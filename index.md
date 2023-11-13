@@ -1,7 +1,6 @@
 ## Welcome to My Homepage
 
-I am an innovative and meticulous developer with a passion for design. 
-
+I am an innovative and meticulous developer with a passion for design.
 Here are various examples of what I have done.
 
 ### Electronics
