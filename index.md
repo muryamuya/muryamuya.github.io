@@ -20,4 +20,4 @@ Here are some designs I have made.
 ![Portfolio 3](docs/assets/port3.png)
 
 
-***You can contact me via email at fadhilsalafy@live.com, or phone number at +62 812-1510-9582.***
+**You can contact me via email at _fadhilsalafy@live.com_, or phone number at _+62 812-1510-9582_.**
