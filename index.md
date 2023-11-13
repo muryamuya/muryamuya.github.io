@@ -9,6 +9,7 @@ This device works by operating a relay connected to a water pump connected to th
 
 ![Device Picture 1](docs/assets/dev1.jpg)
 ![Device Picture 2](docs/assets/dev2.jpg)
+![Device Picture 3](docs/assets/dev3.jpg)
 
 The source of the project can be found at [here](https://github.com/muryamuya/auto-spray-esp8266-atmega328p).
 
@@ -19,4 +20,5 @@ Here are some designs I have made.
 ![Portfolio 2](docs/assets/port2.png)
 ![Portfolio 3](docs/assets/port3.png)
 
-You can contact me via email at fadhilsalafy@live.com, or phone number at +62 812-1510-9582.
+
+***You can contact me via email at fadhilsalafy@live.com, or phone number at +62 812-1510-9582.***
